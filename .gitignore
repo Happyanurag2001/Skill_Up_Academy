@@ -1,0 +1,237 @@
+
+Skill_Up_Academy/.vscode/settings.json
+Skill_Up_Academy/courses/web.html
+Skill_Up_Academy/css/dia_contact.css
+Skill_Up_Academy/css/dropdown.css
+Skill_Up_Academy/css/loader.css
+Skill_Up_Academy/css/login_style.css
+Skill_Up_Academy/css/logout_style.css
+Skill_Up_Academy/css/mentorship.css
+Skill_Up_Academy/css/navbar.css
+Skill_Up_Academy/css/network_style.css
+Skill_Up_Academy/css/pop_up_course.css
+Skill_Up_Academy/css/registration.css
+Skill_Up_Academy/css/registration_style.css
+Skill_Up_Academy/css/reset_styles.css
+Skill_Up_Academy/css/showPopUp_style.css
+Skill_Up_Academy/css/styles.css
+Skill_Up_Academy/css/updatedetails.css
+Skill_Up_Academy/css/userDetails.css
+Skill_Up_Academy/html/about.html
+Skill_Up_Academy/html/contact.html
+Skill_Up_Academy/html/courses.html
+Skill_Up_Academy/html/getimage.html
+Skill_Up_Academy/html/index.html
+Skill_Up_Academy/html/login.html
+Skill_Up_Academy/html/login_for_courses.html
+Skill_Up_Academy/html/logout.html
+Skill_Up_Academy/html/mentorship.html
+Skill_Up_Academy/html/new_course.html
+Skill_Up_Academy/html/popup_course.html
+Skill_Up_Academy/html/Registration.html
+Skill_Up_Academy/html/reset_password.html
+Skill_Up_Academy/html/showPOPup.html
+Skill_Up_Academy/html/updateDetails.html
+Skill_Up_Academy/html/userDetails.html
+Skill_Up_Academy/images/1.png
+Skill_Up_Academy/images/25236f481ce6673c9ad901ce4fc594f0.jpg
+Skill_Up_Academy/images/3129595-uhd_3840_2160_30fps.mp4
+Skill_Up_Academy/images/3130284-uhd_3840_2160_30fps.mp4
+Skill_Up_Academy/images/about_bg.jpg
+Skill_Up_Academy/images/anurag.jpg
+Skill_Up_Academy/images/Arun Kum.jpg
+Skill_Up_Academy/images/Arun Kumar.jpg
+Skill_Up_Academy/images/back_img.jpg
+Skill_Up_Academy/images/Circles-menu-3.gif
+Skill_Up_Academy/images/course_hero_img.avif
+Skill_Up_Academy/images/dead.jpg
+Skill_Up_Academy/images/deepanshu.jpg
+Skill_Up_Academy/images/hero_img.avif
+Skill_Up_Academy/images/hero_img.jpg
+Skill_Up_Academy/images/loader.gif
+Skill_Up_Academy/images/login_bg
+Skill_Up_Academy/images/logo.png
+Skill_Up_Academy/images/pass.avif
+Skill_Up_Academy/images/pass.jpg
+Skill_Up_Academy/images/pass1.jpg
+Skill_Up_Academy/images/pexels-photo-1509534.jpeg
+Skill_Up_Academy/images/Plexus_.aep
+Skill_Up_Academy/images/quizimg.jpg
+Skill_Up_Academy/images/user-profile-icon.jpg
+Skill_Up_Academy/images/welcome_image.jpg
+Skill_Up_Academy/js/.firebaserc
+Skill_Up_Academy/js/back_to_top.js
+Skill_Up_Academy/js/course_auth.js
+Skill_Up_Academy/js/dropdown.js
+Skill_Up_Academy/js/firebase.json
+Skill_Up_Academy/js/firebase_initalization.js
+Skill_Up_Academy/js/firestore.indexes.json
+Skill_Up_Academy/js/firestore.rules
+Skill_Up_Academy/js/getImage.js
+Skill_Up_Academy/js/getName_Image.js
+Skill_Up_Academy/js/Index_visibility.js
+Skill_Up_Academy/js/loader.js
+Skill_Up_Academy/js/login.js
+Skill_Up_Academy/js/login_for_course.js
+Skill_Up_Academy/js/login_loader.js
+Skill_Up_Academy/js/loginwith_google.js
+Skill_Up_Academy/js/logout.js
+Skill_Up_Academy/js/mentorship.js
+Skill_Up_Academy/js/network_script.js
+Skill_Up_Academy/js/package-lock.json
+Skill_Up_Academy/js/package.json
+Skill_Up_Academy/js/public/index.html
+Skill_Up_Academy/js/question_mrk_hover.js
+Skill_Up_Academy/js/registration.js
+Skill_Up_Academy/js/reset_pass_script.js
+Skill_Up_Academy/js/showPopUp.js
+Skill_Up_Academy/js/signup.js
+Skill_Up_Academy/js/storage.rules
+Skill_Up_Academy/js/universal_showMsgFn.js
+Skill_Up_Academy/js/updateDetails.js
+Skill_Up_Academy/js/uploadImage.js
+Skill_Up_Academy/js/userDetails.js
+Skill_Up_Academy/js/y/index.html
+Skill_Up_Academy/mintty.2024-11-17_14-26-16.png
+Skill_Up_Academy/Project Presentation Template.pptx
+Skill_Up_Academy/Quiz Module/data.css
+Skill_Up_Academy/Quiz Module/data.html
+Skill_Up_Academy/Quiz Module/data.js
+Skill_Up_Academy/Quiz Module/datafirst.css
+Skill_Up_Academy/Quiz Module/datafirst.html
+Skill_Up_Academy/Quiz Module/digital.css
+Skill_Up_Academy/Quiz Module/digital.html
+Skill_Up_Academy/Quiz Module/digital.js
+Skill_Up_Academy/Quiz Module/digitalfirst.css
+Skill_Up_Academy/Quiz Module/digitalfirst.html
+Skill_Up_Academy/Quiz Module/dsa.css
+Skill_Up_Academy/Quiz Module/dsa.html
+Skill_Up_Academy/Quiz Module/dsa.js
+Skill_Up_Academy/Quiz Module/dsafirst.css
+Skill_Up_Academy/Quiz Module/dsafirst.html
+Skill_Up_Academy/Quiz Module/quiz.css
+Skill_Up_Academy/Quiz Module/quiz.html
+Skill_Up_Academy/Quiz Module/quiz.js
+Skill_Up_Academy/Quiz Module/quizstart.css
+Skill_Up_Academy/Quiz Module/quizstart.html
+Skill_Up_Academy/Quiz Module/rm183-wan-11.jpg
+Skill_Up_Academy/Quiz Module/select.css
+Skill_Up_Academy/Quiz Module/select.html
+Skill_Up_Academy/.vscode/settings.json
+Skill_Up_Academy/courses/web.html
+Skill_Up_Academy/css/dia_contact.css
+Skill_Up_Academy/css/dropdown.css
+Skill_Up_Academy/css/loader.css
+Skill_Up_Academy/css/login_style.css
+Skill_Up_Academy/css/logout_style.css
+Skill_Up_Academy/css/mentorship.css
+Skill_Up_Academy/css/navbar.css
+Skill_Up_Academy/css/network_style.css
+Skill_Up_Academy/css/pop_up_course.css
+Skill_Up_Academy/css/registration.css
+Skill_Up_Academy/css/registration_style.css
+Skill_Up_Academy/css/reset_styles.css
+Skill_Up_Academy/css/showPopUp_style.css
+Skill_Up_Academy/css/styles.css
+Skill_Up_Academy/css/updatedetails.css
+Skill_Up_Academy/css/userDetails.css
+Skill_Up_Academy/html/about.html
+Skill_Up_Academy/html/contact.html
+Skill_Up_Academy/html/courses.html
+Skill_Up_Academy/html/getimage.html
+Skill_Up_Academy/html/index.html
+Skill_Up_Academy/html/login.html
+Skill_Up_Academy/html/login_for_courses.html
+Skill_Up_Academy/html/logout.html
+Skill_Up_Academy/html/mentorship.html
+Skill_Up_Academy/html/new_course.html
+Skill_Up_Academy/html/popup_course.html
+Skill_Up_Academy/html/Registration.html
+Skill_Up_Academy/html/reset_password.html
+Skill_Up_Academy/html/showPOPup.html
+Skill_Up_Academy/html/updateDetails.html
+Skill_Up_Academy/html/userDetails.html
+Skill_Up_Academy/images/1.png
+Skill_Up_Academy/images/25236f481ce6673c9ad901ce4fc594f0.jpg
+Skill_Up_Academy/images/3129595-uhd_3840_2160_30fps.mp4
+Skill_Up_Academy/images/3130284-uhd_3840_2160_30fps.mp4
+Skill_Up_Academy/images/about_bg.jpg
+Skill_Up_Academy/images/anurag.jpg
+Skill_Up_Academy/images/Arun Kum.jpg
+Skill_Up_Academy/images/Arun Kumar.jpg
+Skill_Up_Academy/images/back_img.jpg
+Skill_Up_Academy/images/Circles-menu-3.gif
+Skill_Up_Academy/images/course_hero_img.avif
+Skill_Up_Academy/images/dead.jpg
+Skill_Up_Academy/images/deepanshu.jpg
+Skill_Up_Academy/images/hero_img.avif
+Skill_Up_Academy/images/hero_img.jpg
+Skill_Up_Academy/images/loader.gif
+Skill_Up_Academy/images/login_bg
+Skill_Up_Academy/images/logo.png
+Skill_Up_Academy/images/pass.avif
+Skill_Up_Academy/images/pass.jpg
+Skill_Up_Academy/images/pass1.jpg
+Skill_Up_Academy/images/pexels-photo-1509534.jpeg
+Skill_Up_Academy/images/Plexus_.aep
+Skill_Up_Academy/images/quizimg.jpg
+Skill_Up_Academy/images/user-profile-icon.jpg
+Skill_Up_Academy/images/welcome_image.jpg
+Skill_Up_Academy/js/.firebaserc
+Skill_Up_Academy/js/back_to_top.js
+Skill_Up_Academy/js/course_auth.js
+Skill_Up_Academy/js/dropdown.js
+Skill_Up_Academy/js/firebase.json
+Skill_Up_Academy/js/firebase_initalization.js
+Skill_Up_Academy/js/firestore.indexes.json
+Skill_Up_Academy/js/firestore.rules
+Skill_Up_Academy/js/getImage.js
+Skill_Up_Academy/js/getName_Image.js
+Skill_Up_Academy/js/Index_visibility.js
+Skill_Up_Academy/js/loader.js
+Skill_Up_Academy/js/login.js
+Skill_Up_Academy/js/login_for_course.js
+Skill_Up_Academy/js/login_loader.js
+Skill_Up_Academy/js/loginwith_google.js
+Skill_Up_Academy/js/logout.js
+Skill_Up_Academy/js/mentorship.js
+Skill_Up_Academy/js/network_script.js
+Skill_Up_Academy/js/package-lock.json
+Skill_Up_Academy/js/package.json
+Skill_Up_Academy/js/public/index.html
+Skill_Up_Academy/js/question_mrk_hover.js
+Skill_Up_Academy/js/registration.js
+Skill_Up_Academy/js/reset_pass_script.js
+Skill_Up_Academy/js/showPopUp.js
+Skill_Up_Academy/js/signup.js
+Skill_Up_Academy/js/storage.rules
+Skill_Up_Academy/js/universal_showMsgFn.js
+Skill_Up_Academy/js/updateDetails.js
+Skill_Up_Academy/js/uploadImage.js
+Skill_Up_Academy/js/userDetails.js
+Skill_Up_Academy/js/y/index.html
+Skill_Up_Academy/mintty.2024-11-17_14-26-16.png
+Skill_Up_Academy/Project Presentation Template.pptx
+Skill_Up_Academy/Quiz Module/data.css
+Skill_Up_Academy/Quiz Module/data.html
+Skill_Up_Academy/Quiz Module/data.js
+Skill_Up_Academy/Quiz Module/datafirst.css
+Skill_Up_Academy/Quiz Module/datafirst.html
+Skill_Up_Academy/Quiz Module/digital.css
+Skill_Up_Academy/Quiz Module/digital.html
+Skill_Up_Academy/Quiz Module/digital.js
+Skill_Up_Academy/Quiz Module/digitalfirst.css
+Skill_Up_Academy/Quiz Module/digitalfirst.html
+Skill_Up_Academy/Quiz Module/dsa.css
+Skill_Up_Academy/Quiz Module/dsa.html
+Skill_Up_Academy/Quiz Module/dsa.js
+Skill_Up_Academy/Quiz Module/dsafirst.css
+Skill_Up_Academy/Quiz Module/dsafirst.html
+Skill_Up_Academy/Quiz Module/quiz.css
+Skill_Up_Academy/Quiz Module/quiz.html
+Skill_Up_Academy/Quiz Module/quiz.js
+Skill_Up_Academy/Quiz Module/quizstart.css
+Skill_Up_Academy/Quiz Module/quizstart.html
+Skill_Up_Academy/Quiz Module/rm183-wan-11.jpg
+Skill_Up_Academy/Quiz Module/select.css
+Skill_Up_Academy/Quiz Module/select.html
